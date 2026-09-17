@@ -1,0 +1,21 @@
+{
+  "scale": 0.5,
+  "stretch_lo": 1.0,
+  "stretch_hi": 99.0,
+  "blur_sigma": 4.0,
+  "open_k": 25,
+  "close_k": 15,
+  "mask_sever_k": 31,
+  "extra_cc_frac": 0.25,
+  "extra_cc_max": 3,
+  "median_k": 5,
+  "gamma": 0.3,
+  "canny_sigma": 1.0,
+  "canny_pct": 88.0,
+  "canny_ratio": 0.4,
+  "edge_thick": 1,
+  "cut_sever_k": 11,
+  "guard_lo": 0.10,
+  "guard_hi": 0.60,
+  "dilate_px": 30
+}
